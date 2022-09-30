@@ -1,0 +1,15 @@
+C:\HTL\POS\POS_03\Uebung3\Uebung3\bin\Debug\net6.0\Uebung3.exe
+C:\HTL\POS\POS_03\Uebung3\Uebung3\bin\Debug\net6.0\Uebung3.deps.json
+C:\HTL\POS\POS_03\Uebung3\Uebung3\bin\Debug\net6.0\Uebung3.runtimeconfig.json
+C:\HTL\POS\POS_03\Uebung3\Uebung3\bin\Debug\net6.0\Uebung3.dll
+C:\HTL\POS\POS_03\Uebung3\Uebung3\bin\Debug\net6.0\Uebung3.pdb
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.csproj.AssemblyReference.cache
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.AssemblyInfoInputs.cache
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.AssemblyInfo.cs
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.csproj.CoreCompileInputs.cache
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.dll
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\refint\Uebung3.dll
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.pdb
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\Uebung3.genruntimeconfig.cache
+C:\HTL\POS\POS_03\Uebung3\Uebung3\obj\Debug\net6.0\ref\Uebung3.dll
