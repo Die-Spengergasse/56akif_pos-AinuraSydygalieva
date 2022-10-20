@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\HTL\\POS\\56akif_pos-AinuraSydygalieva\\Medusa\\src\\Medusa.Domain\\Medusa.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\HTL\\POS\\56akif_pos-AinuraSydygalieva\\Medusa\\src\\Medusa.Domain\\Medusa.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\HTL\\POS\\56akif_pos-AinuraSydygalieva\\Medusa\\src\\Medusa.Domain\\Medusa.Domain.csproj",
+        "projectName": "Medusa.Domain",
+        "projectPath": "C:\\HTL\\POS\\56akif_pos-AinuraSydygalieva\\Medusa\\src\\Medusa.Domain\\Medusa.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nurinka\\.nuget\\packages\\",
+        "outputPath": "C:\\HTL\\POS\\56akif_pos-AinuraSydygalieva\\Medusa\\src\\Medusa.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nurinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[4.44.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
