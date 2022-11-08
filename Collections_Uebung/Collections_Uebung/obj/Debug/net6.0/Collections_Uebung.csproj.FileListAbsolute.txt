@@ -1,0 +1,17 @@
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\bin\Debug\net6.0\Collections_Uebung.exe
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\bin\Debug\net6.0\Collections_Uebung.deps.json
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\bin\Debug\net6.0\Collections_Uebung.runtimeconfig.json
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\bin\Debug\net6.0\Collections_Uebung.dll
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\bin\Debug\net6.0\Collections_Uebung.pdb
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.csproj.AssemblyReference.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.AssemblyInfoInputs.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.AssemblyInfo.cs
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.csproj.CoreCompileInputs.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.csproj.CopyComplete
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.dll
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\refint\Collections_Uebung.dll
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.pdb
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\Collections_Uebung.genruntimeconfig.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Collections_Uebung\Collections_Uebung\obj\Debug\net6.0\ref\Collections_Uebung.dll
