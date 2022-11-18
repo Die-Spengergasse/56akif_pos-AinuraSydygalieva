@@ -8,7 +8,9 @@ namespace Spg.PluePos._01.Model
 {
         public class TextPost : Post
         {
-            public string? Content { get; set; }
+        private DateTime dateTime;
+
+        public string? Content { get; set; }
 
             public int Laenge
             {
@@ -27,6 +29,11 @@ namespace Spg.PluePos._01.Model
 
         public TextPost(string title) : base(title)
         {
+        }
+
+        public TextPost(string title, DateTime dateTime) : this(title)
+        {
+            this.dateTime = dateTime;
         }
 
         public override string Html

@@ -8,7 +8,9 @@ namespace Spg.PluePos._01.Model
 {
     public class ImagePost : Post
         {
-            public string? Url { get; set; }
+        private DateTime dateTime;
+
+        public string? Url { get; set; }
 
             public override string Html
             {
@@ -33,7 +35,11 @@ namespace Spg.PluePos._01.Model
         public ImagePost(string title) : base(title)
         {
         }
-    }
+
+        public ImagePost(string title, DateTime dateTime) : this(title)
+        {
+            this.dateTime = dateTime;
+        }
     }
 }
-}
+

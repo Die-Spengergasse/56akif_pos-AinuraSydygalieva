@@ -29,7 +29,7 @@ namespace Spg.PluePos._01.Model
 
             Console.WriteLine(posts.CalcRating());
 
-            Console.WriteLine(posts["TextPost 6"]?.Html ?? string.Empty);
+            //Console.WriteLine(posts["TextPost 6"]?.Html ?? string.Empty);
         }
     }
 }

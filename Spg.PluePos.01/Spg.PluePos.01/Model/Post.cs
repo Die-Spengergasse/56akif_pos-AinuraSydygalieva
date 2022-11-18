@@ -12,6 +12,7 @@ namespace Spg.PluePos._01.Model
          o int Rating (Es darf nur ein Wert zwischen 1 und 5 gesetzt werden. Andernfalls soll 
         eine ArgumentOutOfRangeException mit der Meldung “Range muss zwischen 1 und 5 
         liegen!" geworfen werden.)
+
         o abstract string Html (Default Property, abstract, Read Only)
         o SmartPhoneApp SmartPhone (Default Property, Es soll eine Referenz auf die Liste
         beinhalten) Achtung! Nullable-Feature: Wähle die richtige initialisierung.*/
@@ -21,8 +22,9 @@ namespace Spg.PluePos._01.Model
             public string Title { get; } = string.Empty;
             
             public int Rating;
+        public DateTime Created { get; }
 
-             public int MyProperty
+        public int MyProperty
               {
                   get { return Rating; }
                     set
@@ -38,7 +40,7 @@ namespace Spg.PluePos._01.Model
              }
         }
 
-        public SmartPhoneApp SmartPhoneNavigation { get; set; } = default!;
+        public SmartPhoneApp SmartPhone { get; set; } = default!;
 
 
 

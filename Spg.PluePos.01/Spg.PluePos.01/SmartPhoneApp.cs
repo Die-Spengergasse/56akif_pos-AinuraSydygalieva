@@ -46,7 +46,7 @@ namespace Spg.PluePos._01.Model
             else if (!base.Contains(item))
             {
                 base.Add(item);
-                //base.SmartPhoneNavigation(this);
+                //item.SmartPhoneNavigation(this);
             }
             else
             {
