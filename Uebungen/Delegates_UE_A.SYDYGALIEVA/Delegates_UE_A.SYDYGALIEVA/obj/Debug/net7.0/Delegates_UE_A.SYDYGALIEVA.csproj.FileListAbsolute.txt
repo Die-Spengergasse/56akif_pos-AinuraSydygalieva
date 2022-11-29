@@ -1,0 +1,15 @@
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\bin\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.exe
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\bin\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.deps.json
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\bin\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.runtimeconfig.json
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\bin\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.dll
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\bin\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.pdb
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.csproj.AssemblyReference.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.AssemblyInfoInputs.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.AssemblyInfo.cs
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.csproj.CoreCompileInputs.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.dll
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\refint\Delegates_UE_A.SYDYGALIEVA.dll
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.pdb
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\Delegates_UE_A.SYDYGALIEVA.genruntimeconfig.cache
+C:\HTL\POS\56akif_pos-AinuraSydygalieva\Uebungen\Delegates_UE_A.SYDYGALIEVA\Delegates_UE_A.SYDYGALIEVA\obj\Debug\net7.0\ref\Delegates_UE_A.SYDYGALIEVA.dll
